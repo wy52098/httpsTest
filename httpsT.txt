@@ -7,3 +7,7 @@
 
 8.21又来学习一次
 git status 查看文件状态
+
+git log 查看日志
+enter键往下翻
+q 退出
