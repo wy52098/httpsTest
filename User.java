@@ -8,4 +8,7 @@ public class User{
 	private int age;
 	// 在master分支中添加的内容
 	private String class;
+	// b1分支里新加的内容
+	private Double salary;
+
 }
